@@ -1,0 +1,70 @@
+body {
+    font-family: monospace;
+    background-color:rgb(184, 184, 184);
+    margin: 1;
+    padding: 1;
+    color: white;
+    position: fixed;
+    top: 15x;
+    bottom: 50px;
+}
+
+header {
+    text-align: center;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    margin-right: auto;
+    
+}
+
+.card{
+    background:rgb(55, 59, 78);
+    padding:8px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,.50);
+}
+
+.main{
+    background: rgb(0, 0, 0);
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 5px 12px black(0,0,0,.65);
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+section p {
+    text-align: justify;
+}
+
+.ig_saya {
+    width: 15px;
+    height: 15px;
+    object-fit: cover;
+}
+
+.github_saya {
+    width: 30px;
+    height: 20px;
+    object-fit: cover;
+}
+
+.linkedin_saya {
+    width: 70px;
+    height: 15px;
+    object-fit: cover;
+}
+
+.link_sosmed {
+    text-align: center;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    left: 20px;
+}
